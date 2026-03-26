@@ -1,4 +1,4 @@
 # Senior-Project-Food-Freshness-Detector
-##Project Overview
+## Project Overview
 This is a Senior design project by four senior Computer Engineering Students.
 
